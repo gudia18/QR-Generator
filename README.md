@@ -16,8 +16,8 @@ Before using this project, make sure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/qr-code-project.git
-   cd qr-code-project
+   git clone https://github.com/gudia18/QR-Generator.git
+   cd QR-Generator
 2. Install dependencies:
    ```bash
    npm install
